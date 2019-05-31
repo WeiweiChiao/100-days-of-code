@@ -21,5 +21,5 @@ It is a good habit to record your feeling here although you may not have a big h
 **Thoughts**: This morning my teacher sent me the paper, so I have no as much time as yesterday on programming. I felt fulfilled all day. 
 
 **Link(s) to work**
-1.[add a box-shadow to a card-like element](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/add-a-box-shadow-to-a-card-like-element)
-2.[the penguin about CSS variables](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-css-variables-to-change-several-elements-at-once)
+1. [add a box-shadow to a card-like element](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/add-a-box-shadow-to-a-card-like-element)
+2. [the penguin about CSS variables](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-css-variables-to-change-several-elements-at-once)
