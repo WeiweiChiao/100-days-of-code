@@ -23,3 +23,14 @@ It is a good habit to record your feeling here although you may not have a big h
 **Link(s) to work**
 1. [add a box-shadow to a card-like element](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/add-a-box-shadow-to-a-card-like-element)
 2. [the penguin about CSS variables](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-css-variables-to-change-several-elements-at-once)
+
+
+### Day 3: June 1, Saturday
+
+**Today's Progress**: About 10 parts of applied visual design chanllenges be finished.
+
+**Thoughts**: This morning I stayed in dormitory and planed to program well, but I was interrupt many times. Home is not a good place for working. Tomorrow I will go to the library to do more practice.
+
+**Link(s) to work**
+1.[move a relatively positioned element](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/move-a-relatively-positioned-element-with-css-offsets)
+2.
