@@ -38,6 +38,11 @@ It is a good habit to record your feeling here although you may not have a big h
 ### Day 4: June 2, Sunday
 
 
+**Today's Progress**: I did some challenges about applied visual design, such as animation, hover and graphic.
+
+**Thoughts**: Do the things more important in mornings, and deal with easier problems like playing guitar in nights.
+
+**Link(s) to work**
 1. [linear-gradient](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-a-gradual-css-linear-gradient)
 2. [use repeating-linear-gradient to create a striped element](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-a-css-linear-gradient-to-create-a-striped-element)
 3. [creat a graphic](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-a-graphic-using-css/)
