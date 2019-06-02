@@ -47,3 +47,9 @@ It is a good habit to record your feeling here although you may not have a big h
 2. [use repeating-linear-gradient to create a striped element](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-a-css-linear-gradient-to-create-a-striped-element)
 3. [creat a graphic](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-a-graphic-using-css/)
 4. [@keyframes animation-name](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-css-animation-to-change-the-hover-state-of-a-button/)
+
+
+### Day 5: June 3, Monday
+
+**Link(s) to work**
+1 [animation-iteration-count](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/make-a-css-heartbeat-using-an-infinite-animation-count)
