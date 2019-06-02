@@ -39,3 +39,4 @@ It is a good habit to record your feeling here although you may not have a big h
 
 
 1. [linear-gradient](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/create-a-gradual-css-linear-gradient)
+2. [use repeating-linear-gradient to create a striped element](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/use-a-css-linear-gradient-to-create-a-striped-element)
