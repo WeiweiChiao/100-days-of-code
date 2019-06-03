@@ -51,6 +51,11 @@ It is a good habit to record your feeling here although you may not have a big h
 
 ### Day 5: June 3, Monday
 
+
+**Today's Progress**: Completed a lot of challenges, most work of the project in HTML and some challenges about Javascript. also guitar
+
+**Thoughts**: really fullfilled and really happy.
+
 **Link(s) to work**
 1 [animation-iteration-count](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/make-a-css-heartbeat-using-an-infinite-animation-count)
 2 [the difference among div, section and article](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/wrap-content-in-the-article-element)
