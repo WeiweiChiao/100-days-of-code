@@ -53,3 +53,4 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Link(s) to work**
 1 [animation-iteration-count](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/make-a-css-heartbeat-using-an-infinite-animation-count)
+2 [the difference among div, section and article](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/wrap-content-in-the-article-element)
