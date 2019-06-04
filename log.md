@@ -37,7 +37,6 @@ It is a good habit to record your feeling here although you may not have a big h
 
 ### Day 4: June 2, Sunday
 
-
 **Today's Progress**: I did some challenges about applied visual design, such as animation, hover and graphic.
 
 **Thoughts**: Do the things more important in mornings, and deal with easier problems like playing guitar in nights.
@@ -51,7 +50,6 @@ It is a good habit to record your feeling here although you may not have a big h
 
 ### Day 5: June 3, Monday
 
-
 **Today's Progress**: Completed a lot of challenges, most work of the project in HTML and some challenges about Javascript. also guitar
 
 **Thoughts**: really fullfilled and really happy.
@@ -59,3 +57,14 @@ It is a good habit to record your feeling here although you may not have a big h
 **Link(s) to work**
 1 [animation-iteration-count](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/make-a-css-heartbeat-using-an-infinite-animation-count)
 2 [the difference among div, section and article](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/wrap-content-in-the-article-element)
+
+
+### Day 6: June 4, Tuesday
+
+**Today's Progress**: Applied Accessibility finished finally, and I also did some work about the first project.
+
+**Thoughts**: My poor English Reading skill wasted too many time in this part. HTML and CSS properties are forgetful.
+
+**Link(s) to work**
+1 [unfinished tribute page](https://codepen.io/chunshujiu/project/editor/DnqKLN)
+
