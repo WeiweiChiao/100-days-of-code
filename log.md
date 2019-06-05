@@ -55,8 +55,8 @@ It is a good habit to record your feeling here although you may not have a big h
 **Thoughts**: really fullfilled and really happy.
 
 **Link(s) to work**
-1 [animation-iteration-count](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/make-a-css-heartbeat-using-an-infinite-animation-count)
-2 [the difference among div, section and article](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/wrap-content-in-the-article-element)
+1.  [animation-iteration-count](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/make-a-css-heartbeat-using-an-infinite-animation-count)
+2. [the difference among div, section and article](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/wrap-content-in-the-article-element)
 
 
 ### Day 6: June 4, Tuesday
@@ -66,5 +66,5 @@ It is a good habit to record your feeling here although you may not have a big h
 **Thoughts**: My poor English Reading skill wasted too many time in this part. HTML and CSS properties are forgetful.
 
 **Link(s) to work**
-1 [unfinished tribute page](https://codepen.io/chunshujiu/project/editor/DnqKLN)
+1. [unfinished tribute page](https://codepen.io/chunshujiu/project/editor/DnqKLN)
 
