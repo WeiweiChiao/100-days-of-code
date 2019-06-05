@@ -68,3 +68,12 @@ It is a good habit to record your feeling here although you may not have a big h
 **Link(s) to work**
 1. [unfinished tribute page](https://codepen.io/chunshujiu/project/editor/DnqKLN)
 
+
+### Day 7: June 5, Wednesday
+
+**Today's Progress**: All of Responsive Web Design Principles and 60 percent of CSS Flexbox chanllengs were completed.
+
+**Thoughts**: I met some difficulty in the first project, tribute page, so browse the source code to solve it. Certainly it is not a good way to solve the problem.
+
+**Link(s) to work**
+1. [create a media query here are some problems](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/create-a-media-query)
