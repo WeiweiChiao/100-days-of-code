@@ -77,3 +77,13 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Link(s) to work**
 1. [create a media query here are some problems](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles/create-a-media-query)
+
+
+### Day 8: June 6, Thursday
+
+**Today's Progress**: Only did few parts of CSS Grid because of the interview of internship
+
+**Thoughts**: The same thought I had is that do it at the first time
+
+**Link(s)**
+1. [grid-template-rows](https://learn.freecodecamp.org/responsive-web-design/css-grid/add-rows-with-grid-template-rows)
