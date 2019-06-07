@@ -90,7 +90,9 @@ It is a good habit to record your feeling here although you may not have a big h
 
 ### Day 9: June 7, Friday
 
-**Today's Progress**: In the grid-gap, the first value is for rows, and the second value is for columns.
-**Thoughts**:
+**Today's Progress**: I only did 70 percent challenges of Grid. In the grid part of CSS, different places mean different things. 
+
+**Thoughts**: Finding a quiet place to program is really important, especially you are tired after a week of work.
+
 **Link(s)**
 1. [grid-gap](https://learn.freecodecamp.org/responsive-web-design/css-grid/add-gaps-faster-with-grid-gap)
