@@ -87,3 +87,10 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Link(s)**
 1. [grid-template-rows](https://learn.freecodecamp.org/responsive-web-design/css-grid/add-rows-with-grid-template-rows)
+
+### Day 9: June 7, Friday
+
+**Today's Progress**: In the grid-gap, the first value is for rows, and the second value is for columns.
+**Thoughts**:
+**Link(s)**
+1. [grid-gap](https://learn.freecodecamp.org/responsive-web-design/css-grid/add-gaps-faster-with-grid-gap)
