@@ -96,3 +96,11 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Link(s)**
 1. [grid-gap](https://learn.freecodecamp.org/responsive-web-design/css-grid/add-gaps-faster-with-grid-gap)
+
+### Day 11: June 9, Sunday
+
+**Today's Progress**: Yesterday I had completed all the challenges for the Responsive Web Design Certification. I wrote the log on Github, but today it was lost because of I didn't save it. This morning I finished the first projects, tribute page, and finished the html part of the 2nd project.
+
+**Thoughts**: The elements and properties are forgetable, so you need to read a book about web whenever necessary. 
+**Link(s)**
+1. [survey form](https://codepen.io/chunshujiu/project/editor/DnqKLN#0)
