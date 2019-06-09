@@ -105,3 +105,10 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Link(s)**
 1. [survey form](https://codepen.io/chunshujiu/project/editor/DnqKLN#0)
+
+### Day 12: June 10, Monday
+
+**Today's Progress**:
+**Thoughts**:
+**Link(s)**
+1. []()
