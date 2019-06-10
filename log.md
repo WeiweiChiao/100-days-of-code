@@ -108,7 +108,9 @@ It is a good habit to record your feeling here although you may not have a big h
 
 ### Day 12: June 10, Monday
 
-**Today's Progress**:
-**Thoughts**:
+**Today's Progress**: Today I spent 2h on the survey project, but only did few work. More energy be burned on paper.
+
+**Thoughts**: Continue to do the thing you love, finally you must be successful. 
+
 **Link(s)**
-1. []()
+1. [w3cSchool css](https://www.w3cschool.cn/cssref/)
