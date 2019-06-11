@@ -114,3 +114,10 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Link(s)**
 1. [w3cSchool css](https://www.w3cschool.cn/cssref/)
+
+### Day 13: June 11, Tuesday
+**Today's Progress**: My yesterday twitter received 19 comments and 40 likes, so all the day I can feel happy and encourage. The survey page still not be finished, but I tried some different methods and tidied the codes.
+
+**Thoughts**: Thanks all the people who gave me help and the positive feedback from robots. 
+
+**Link(s)**: 
