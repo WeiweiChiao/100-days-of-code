@@ -121,3 +121,12 @@ It is a good habit to record your feeling here although you may not have a big h
 **Thoughts**: Thanks all the people who gave me help and the positive feedback from robots. 
 
 **Link(s)**: 
+
+
+### Day 14: June 12, Wednesday
+**Today's Progress**: Perfectly completed the project of survey by using plain CSS.
+
+**Thoughts**: Really happy I am now. It is a great way to solve problems by using the most basic knowledge, and in this way you can grasp the knowledge better.
+
+**Link(s)**: 
+1. [survey](https://codepen.io/chunshujiu/project/editor/DnqKLN)
