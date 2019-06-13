@@ -130,3 +130,11 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Link(s)**: 
 1. [survey](https://codepen.io/chunshujiu/project/editor/DnqKLN)
+
+### Day 15: June 13, Friday
+**Today's Progress**: reviewed some basic CSS and did part of productLadingPage.
+
+**Thoughts**: CSS is really difficult to grasp.
+
+**Link(s)**: 
+1. [productLadingPage](https://codepen.io/WeiweiJohn/project/editor/DnqKLN)
