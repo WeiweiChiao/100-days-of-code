@@ -116,25 +116,38 @@ It is a good habit to record your feeling here although you may not have a big h
 1. [w3cSchool css](https://www.w3cschool.cn/cssref/)
 
 ### Day 13: June 11, Tuesday
+
 **Today's Progress**: My yesterday twitter received 19 comments and 40 likes, so all the day I can feel happy and encourage. The survey page still not be finished, but I tried some different methods and tidied the codes.
 
 **Thoughts**: Thanks all the people who gave me help and the positive feedback from robots. 
 
-**Link(s)**: 
+**Link(s)**
 
 
 ### Day 14: June 12, Wednesday
+
 **Today's Progress**: Perfectly completed the project of survey by using plain CSS.
 
 **Thoughts**: Really happy I am now. It is a great way to solve problems by using the most basic knowledge, and in this way you can grasp the knowledge better.
 
-**Link(s)**: 
+**Link(s)**
 1. [survey](https://codepen.io/chunshujiu/project/editor/DnqKLN)
 
-### Day 15: June 13, Friday
+### Day 15: June 13, Thursday
+
 **Today's Progress**: reviewed some basic CSS and did part of productLadingPage.
 
 **Thoughts**: CSS is really difficult to grasp.
 
-**Link(s)**: 
-1. [productLadingPage](https://codepen.io/WeiweiJohn/project/editor/DnqKLN)
+**Link(s)**
+1. [productLandingPage](https://codepen.io/WeiweiJohn/project/editor/DnqKLN)
+
+
+### Day 16: June 14, Friday
+
+**Today's Progress**: Successfully completed the Product Landing Page.
+
+**Thoughts**: I think that doing projects is very helpful for improving your web skills, especially CSS.
+
+**Link(s)**
+1. [productLandingPage](https://codepen.io/WeiweiJohn/project/editor/DnqKLN#)
