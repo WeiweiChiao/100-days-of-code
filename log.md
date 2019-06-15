@@ -151,3 +151,12 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Link(s)**
 1. [productLandingPage](https://codepen.io/WeiweiJohn/project/editor/DnqKLN#)
+
+### Day 17: June 15, Saturday
+
+**Today's Progress**: Completed the html part of the Technical Documentation.
+
+**Thoughts**: It is a repetitive work to copy tags and attributes, and you can just regard it as a rest. Go for it!
+
+**Link(s)**
+1. [Technical Documentation](https://codepen.io/WeiweiJohn/project/editor/DnqKLN)
