@@ -66,7 +66,7 @@ It is a good habit to record your feeling here although you may not have a big h
 **Thoughts**: My poor English Reading skill wasted too many time in this part. HTML and CSS properties are forgetful.
 
 **Link(s) to work**
-1. [unfinished tribute page](https://codepen.io/chunshujiu/project/editor/DnqKLN)
+1. [tribute page](https://codepen.io/WeiweiJohn/pen/mZPdJG)
 
 
 ### Day 7: June 5, Wednesday
@@ -104,7 +104,7 @@ It is a good habit to record your feeling here although you may not have a big h
 **Thoughts**: The elements and properties are forgetable, so you need to read a book about web whenever necessary. 
 
 **Link(s)**
-1. [survey form](https://codepen.io/chunshujiu/project/editor/DnqKLN#0)
+1. [survey form](https://codepen.io/WeiweiJohn/pen/rEeNVM)
 
 ### Day 12: June 10, Monday
 
@@ -131,7 +131,7 @@ It is a good habit to record your feeling here although you may not have a big h
 **Thoughts**: Really happy I am now. It is a great way to solve problems by using the most basic knowledge, and in this way you can grasp the knowledge better.
 
 **Link(s)**
-1. [survey](https://codepen.io/chunshujiu/project/editor/DnqKLN)
+1. [survey](https://codepen.io/WeiweiJohn/pen/rEeNVM)
 
 ### Day 15: June 13, Thursday
 
@@ -140,7 +140,7 @@ It is a good habit to record your feeling here although you may not have a big h
 **Thoughts**: CSS is really difficult to grasp.
 
 **Link(s)**
-1. [productLandingPage](https://codepen.io/WeiweiJohn/project/editor/DnqKLN)
+1. [productLandingPage](https://codepen.io/WeiweiJohn/pen/KjzKPK)
 
 
 ### Day 16: June 14, Friday
@@ -150,7 +150,7 @@ It is a good habit to record your feeling here although you may not have a big h
 **Thoughts**: I think that doing projects is very helpful for improving your web skills, especially CSS.
 
 **Link(s)**
-1. [productLandingPage](https://codepen.io/WeiweiJohn/project/editor/DnqKLN#)
+1. [productLandingPage](https://codepen.io/WeiweiJohn/pen/KjzKPK)
 
 ### Day 17: June 15, Saturday
 
@@ -159,7 +159,7 @@ It is a good habit to record your feeling here although you may not have a big h
 **Thoughts**: It is a repetitive work to copy tags and attributes, and you can just regard it as a rest. Go for it!
 
 **Link(s)**
-1. [Technical Documentation](https://codepen.io/WeiweiJohn/project/editor/DnqKLN)
+1. [Technical Documentation](https://codepen.io/WeiweiJohn/pen/OeNLer)
 
 ### Day 18: June 16, Sunday
 
@@ -168,4 +168,4 @@ It is a good habit to record your feeling here although you may not have a big h
 **Thoughts**: Coding has become a task lay on my timeline and waited me to do it everyday. In some degree, I dislike this feeling, because I felt a little tired.
 
 **Link(s)**
-1. [Technical Documentation](https://codepen.io/WeiweiJohn/project/editor/DnqKLN)
+1. [Technical Documentation](https://codepen.io/WeiweiJohn/pen/OeNLer)
