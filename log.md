@@ -165,7 +165,7 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Today's Progress**: Technical Documentation Page finished.
 
-**Thoughts**: Coding has become a task lay on my timeline and waited me to do it everyday. In somde degree, I dislike this feeling, because I felt a little tired.
+**Thoughts**: Coding has become a task lay on my timeline and waited me to do it everyday. In some degree, I dislike this feeling, because I felt a little tired.
 
 **Link(s)**
-1.[Technical Documentation](https://codepen.io/WeiweiJohn/project/editor/DnqKLN)
+1. [Technical Documentation](https://codepen.io/WeiweiJohn/project/editor/DnqKLN)
