@@ -169,3 +169,12 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Link(s)**
 1. [Technical Documentation](https://codepen.io/WeiweiJohn/pen/OeNLer)
+
+### Day 19: June 17, Monday
+
+**Today's Progress**: Did a personal portfolio page and got the first certification.
+
+**Thoughts**: If you love one thing, most of the time during doing it you can feel very happy and you cannot fell the running of time.
+
+**Link(s)**
+1. [Personal Portfolio](https://codepen.io/WeiweiJohnson/pen/mZPdPz)
