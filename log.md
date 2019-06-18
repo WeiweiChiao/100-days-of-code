@@ -178,3 +178,12 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Link(s)**
 1. [Personal Portfolio](https://codepen.io/WeiweiJohnson/pen/mZPdPz)
+
+### Day 20: June 18, Tuesday
+
+**Today's Progress**: Learned some knowledge about JavaScript on FreeCodeCamp and Read the Whitepaper and source codes of Libra.
+
+**Thoughts**: If you have a desire to know something, you will find it not difficult any more. Libra will be the most influential coin from the birth of Bitcoin. In addition, I felt really happy when I received the summer intern offer from Sinotrans. 
+
+**Link(s)**
+1. [link today belongs to Libra ](https://developers.libra.org/docs/the-libra-blockchain-paper.html)
