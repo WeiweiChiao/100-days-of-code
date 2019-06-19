@@ -133,6 +133,7 @@ It is a good habit to record your feeling here although you may not have a big h
 **Link(s)**
 1. [survey](https://codepen.io/WeiweiJohn/pen/rEeNVM)
 
+
 ### Day 15: June 13, Thursday
 
 **Today's Progress**: reviewed some basic CSS and did part of productLadingPage.
@@ -152,6 +153,7 @@ It is a good habit to record your feeling here although you may not have a big h
 **Link(s)**
 1. [productLandingPage](https://codepen.io/WeiweiJohn/pen/KjzKPK)
 
+
 ### Day 17: June 15, Saturday
 
 **Today's Progress**: Completed the html part of the Technical Documentation.
@@ -160,6 +162,7 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Link(s)**
 1. [Technical Documentation](https://codepen.io/WeiweiJohn/pen/OeNLer)
+
 
 ### Day 18: June 16, Sunday
 
@@ -170,6 +173,7 @@ It is a good habit to record your feeling here although you may not have a big h
 **Link(s)**
 1. [Technical Documentation](https://codepen.io/WeiweiJohn/pen/OeNLer)
 
+
 ### Day 19: June 17, Monday
 
 **Today's Progress**: Did a personal portfolio page and got the first certification.
@@ -179,6 +183,7 @@ It is a good habit to record your feeling here although you may not have a big h
 **Link(s)**
 1. [Personal Portfolio](https://codepen.io/WeiweiJohnson/pen/mZPdPz)
 
+
 ### Day 20: June 18, Tuesday
 
 **Today's Progress**: Learned some knowledge about JavaScript on FreeCodeCamp and Read the Whitepaper and source codes of Libra.
@@ -187,3 +192,13 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Link(s)**
 1. [link today belongs to Libra ](https://developers.libra.org/docs/the-libra-blockchain-paper.html)
+
+
+### Day 21: June 19, Wednesday
+
+**Today's Progress**: switch, object, dot and square bracket
+
+**Thoughts**:
+
+**Link(s)**
+1. []()
