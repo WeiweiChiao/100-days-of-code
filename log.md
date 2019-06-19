@@ -198,7 +198,7 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Today's Progress**: switch, object, dot and square bracket
 
-**Thoughts**:
+**Thoughts**: This afternoon my paper status changed, so I paid the most of attention on the paper. Unfortunately only learned few knowledge about JavaScript.
 
 **Link(s)**
-1. []()
+1. [a little tough for me](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/updating-object-properties)
