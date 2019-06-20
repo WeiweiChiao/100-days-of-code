@@ -85,7 +85,7 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Thoughts**: The same thought I had is that do it at the first time
 
-**Link(s)**
+**Link(s) to work**
 1. [grid-template-rows](https://learn.freecodecamp.org/responsive-web-design/css-grid/add-rows-with-grid-template-rows)
 
 ### Day 9: June 7, Friday
@@ -94,7 +94,7 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Thoughts**: Finding a quiet place to program is really important, especially you are tired after a week of work.
 
-**Link(s)**
+**Link(s) to work**
 1. [grid-gap](https://learn.freecodecamp.org/responsive-web-design/css-grid/add-gaps-faster-with-grid-gap)
 
 ### Day 11: June 9, Sunday
@@ -103,7 +103,7 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Thoughts**: The elements and properties are forgetable, so you need to read a book about web whenever necessary. 
 
-**Link(s)**
+**Link(s) to work**
 1. [survey form](https://codepen.io/WeiweiJohn/pen/rEeNVM)
 
 ### Day 12: June 10, Monday
@@ -112,7 +112,7 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Thoughts**: Continue to do the thing you love, finally you must be successful. 
 
-**Link(s)**
+**Link(s) to work**
 1. [w3cSchool css](https://www.w3cschool.cn/cssref/)
 
 ### Day 13: June 11, Tuesday
@@ -121,7 +121,7 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Thoughts**: Thanks all the people who gave me help and the positive feedback from robots. 
 
-**Link(s)**
+**Link(s) to work**
 
 
 ### Day 14: June 12, Wednesday
@@ -130,7 +130,7 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Thoughts**: Really happy I am now. It is a great way to solve problems by using the most basic knowledge, and in this way you can grasp the knowledge better.
 
-**Link(s)**
+**Link(s) to work**
 1. [survey](https://codepen.io/WeiweiJohn/pen/rEeNVM)
 
 
@@ -140,7 +140,7 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Thoughts**: CSS is really difficult to grasp.
 
-**Link(s)**
+**Link(s) to work**
 1. [productLandingPage](https://codepen.io/WeiweiJohn/pen/KjzKPK)
 
 
@@ -150,7 +150,7 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Thoughts**: I think that doing projects is very helpful for improving your web skills, especially CSS.
 
-**Link(s)**
+**Link(s) to work**
 1. [productLandingPage](https://codepen.io/WeiweiJohn/pen/KjzKPK)
 
 
@@ -160,7 +160,7 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Thoughts**: It is a repetitive work to copy tags and attributes, and you can just regard it as a rest. Go for it!
 
-**Link(s)**
+**Link(s) to work**
 1. [Technical Documentation](https://codepen.io/WeiweiJohn/pen/OeNLer)
 
 
@@ -170,7 +170,7 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Thoughts**: Coding has become a task lay on my timeline and waited me to do it everyday. In some degree, I dislike this feeling, because I felt a little tired.
 
-**Link(s)**
+**Link(s) to work**
 1. [Technical Documentation](https://codepen.io/WeiweiJohn/pen/OeNLer)
 
 
@@ -180,7 +180,7 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Thoughts**: If you love one thing, most of the time during doing it you can feel very happy and you cannot fell the running of time.
 
-**Link(s)**
+**Link(s) to work**
 1. [Personal Portfolio](https://codepen.io/WeiweiJohnson/pen/mZPdPz)
 
 
@@ -190,7 +190,7 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Thoughts**: If you have a desire to know something, you will find it not difficult any more. Libra will be the most influential coin from the birth of Bitcoin. In addition, I felt really happy when I received the summer intern offer from Sinotrans. 
 
-**Link(s)**
+**Link(s) to work**
 1. [link today belongs to Libra ](https://developers.libra.org/docs/the-libra-blockchain-paper.html)
 
 
@@ -200,7 +200,7 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Thoughts**: This afternoon my paper status changed, so I paid the most of attention on the paper. Unfortunately only learned few knowledge about JavaScript.
 
-**Link(s)**
+**Link(s) to work**
 1. [a little tough for me](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/updating-object-properties)
 
 
@@ -210,5 +210,5 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Thoughts**: It is really important to distinguish the different notation, like the array with a pair of brackets.
 
-**Link(s)**
+**Link(s) to work**
 1. [ JSON is not as simple as it looks like ](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/record-collection)
