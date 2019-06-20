@@ -212,3 +212,4 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Link(s) to work**
 1. [ JSON is not as simple as it looks like ](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/record-collection)
+1. [ be **scrupulous** to face the array ](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup)
