@@ -202,3 +202,13 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Link(s)**
 1. [a little tough for me](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/updating-object-properties)
+
+
+### Day 22: June 20, Thursday
+
+**Today's Progress**: operation about JSON
+
+**Thoughts**: It is really important to distinguish the different notation, like the array with a pair of brackets.
+
+**Link(s)**
+1. [ JSON is not as simple as it looks like ](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/record-collection)
