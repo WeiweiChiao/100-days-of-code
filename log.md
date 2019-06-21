@@ -212,4 +212,17 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Link(s) to work**
 1. [ JSON is not as simple as it looks like ](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/record-collection)
-1. [ be **scrupulous** to face the array ](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup)
+2. [ be **scrupulous** to face the array ](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup)
+
+
+### Day 23: June 21, Friday
+
+**Today's Progress**: Completed JS basic challenges and learned a little knowledge about ES6, and read some article about programmers' career
+
+**Thoughts**: Web development is not a easy job, and national companies are also not easy place.
+
+**Link(s)**
+0. [**These links may not correlative to the work**](.)
+1. [National companies](https://www.zhihu.com/question/27168549)
+2. [A programmer's path to growth](https://github.com/fouber/blog/issues/41)
+
