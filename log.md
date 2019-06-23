@@ -226,3 +226,9 @@ It is a good habit to record your feeling here although you may not have a big h
 1. [National companies](https://www.zhihu.com/question/27168549)
 2. [A programmer's path to growth](https://github.com/fouber/blog/issues/41)
 
+
+### Day 24: June 22, Saturday
+
+**Today's Progress**: FEW ES 6, English CV
+
+**Thoughts**: If you don't regard one thing as the necessary, you won't be an excellent person in this area.
