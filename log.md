@@ -232,3 +232,12 @@ It is a good habit to record your feeling here although you may not have a big h
 **Today's Progress**: FEW ES 6, English CV
 
 **Thoughts**: If you don't regard one thing as the necessary, you won't be an excellent person in this area.
+
+
+### Day 25: June 23, Sunday
+
+**Today's Progress**: FEW also, nearly nothing
+
+**Thoughts**: It nearly didn't work, but I kept spending time on it. Had a good weekend, nextweek I should do more to improve skills.
+
+
