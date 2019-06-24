@@ -241,3 +241,8 @@ It is a good habit to record your feeling here although you may not have a big h
 **Thoughts**: It nearly didn't work, but I kept spending time on it. Had a good weekend, nextweek I should do more to improve skills.
 
 
+### Day 26: June 24, Monday
+
+**Today's Progress**: 1 ES challenge.
+
+**Thoughts**: Do it at your most effective time next time
