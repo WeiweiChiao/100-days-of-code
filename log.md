@@ -246,3 +246,14 @@ It is a good habit to record your feeling here although you may not have a big h
 **Today's Progress**: 1 ES challenge.
 
 **Thoughts**: Do it at your most effective time next time
+
+
+### Day 27: June 25, Tuesday
+
+**Today's Progress**: 
+
+**Thoughts**: I almost wasted 3 days and did not to solve the problems in ES6. Today I nearly copied the codes from the hints, but I learned filter and map at least.
+
+**Link(s)**
+1. [higher order arrow functions](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/write-higher-order-arrow-functions)
+2. [CN higher order arrow functions](https://www.cnblogs.com/blogzxl/p/7017622.html)
