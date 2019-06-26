@@ -250,10 +250,18 @@ It is a good habit to record your feeling here although you may not have a big h
 
 ### Day 27: June 25, Tuesday
 
-**Today's Progress**: 
+**Today's Progress**: higer order arrow functions, detructing assignment
 
 **Thoughts**: I almost wasted 3 days and did not to solve the problems in ES6. Today I nearly copied the codes from the hints, but I learned filter and map at least.
 
 **Link(s)**
 1. [higher order arrow functions](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/write-higher-order-arrow-functions)
 2. [CN higher order arrow functions](https://www.cnblogs.com/blogzxl/p/7017622.html)
+
+
+### Day 28: June 26, Wednesday
+
+**Today's Progress**:
+**Thoughts**: JS, especially ES6 is really different with html and css.
+**Link(s)**
+1. [template literals](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/create-strings-using-template-literals)
