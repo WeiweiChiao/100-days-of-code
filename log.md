@@ -261,7 +261,9 @@ It is a good habit to record your feeling here although you may not have a big h
 
 ### Day 28: June 26, Wednesday
 
-**Today's Progress**:
-**Thoughts**: JS, especially ES6 is really different with html and css.
+**Today's Progress**: I spent half day to read information about Ethiopia, Djibouti and Chinese businesses here.
+
+**Thoughts**: JS, especially ES6 is really different with html and css. Working is not the most effective way to earn money.
+
 **Link(s)**
 1. [template literals](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/create-strings-using-template-literals)
