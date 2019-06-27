@@ -267,3 +267,29 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Link(s)**
 1. [template literals](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/create-strings-using-template-literals)
+
+
+
+### Day 29: June 27, Tursday
+
+**Today's Progress**: passed and reviewed all the ES6 challenges
+
+**Thoughts**: For something you couldn't understand during the first time learning it, it may be really easy in the second time.
+
+**Link(s)**
+1. [higher order Arrow Functions](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/write-higher-order-arrow-functions)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
