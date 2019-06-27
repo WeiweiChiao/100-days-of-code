@@ -274,11 +274,12 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Today's Progress**: passed and reviewed all the ES6 challenges
 
-**Thoughts**: For something you couldn't understand during the first time learning it, it may be really easy in the second time. But I cannot also do the **2.** immediately.
+**Thoughts**: For something you couldn't understand during the first time learning it, it may be really easy in the second time. But I cannot also do the **2.** immediately. **spread operator** only works in **function** and **array**.
 
 **Link(s)**
 1. [higher order Arrow Functions](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/write-higher-order-arrow-functions)
 2. [rest operator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-the-rest-operator-with-function-parameters)
+3. [spread operator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-the-spread-operator-to-evaluate-arrays-in-place)
 
 
 
