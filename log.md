@@ -282,9 +282,13 @@ It is a good habit to record your feeling here although you may not have a big h
 3. [spread operator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-the-spread-operator-to-evaluate-arrays-in-place)
 
 
+### Day 30: June 28, Friday
 
+**Today's Progress**: Regular Expressions
 
+**Thoughts**: So many challenges today I did, but it is impossible to understand them very well right away.
 
+**Link(s)**
 
 
 
