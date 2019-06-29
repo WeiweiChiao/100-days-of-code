@@ -291,6 +291,11 @@ It is a good habit to record your feeling here although you may not have a big h
 **Link(s)**
 
 
+### Day 31: June 29, Sarturday
+
+**Today's Progress**: Reviewed few Regular Expressions challenges today.
+
+**Thoughts**: It is not a good way to review knowledge on FCC. I think that reading a book or documents is a better way.
 
 
 
