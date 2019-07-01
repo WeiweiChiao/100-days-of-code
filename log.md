@@ -298,7 +298,16 @@ It is a good habit to record your feeling here although you may not have a big h
 **Thoughts**: It is not a good way to review knowledge on FCC. I think that reading a book or documents is a better way.
 
 
+### Day 32: June 30, Sunday
 
+**Today's Progress**: Nothing.
+
+**Thoughts**: Although you are very busy and even have no time learn anything about web, you have to keep opening the page every day.
+
+
+### Day 33: July 1, Monday
+
+****
 
 
 
