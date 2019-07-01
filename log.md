@@ -307,8 +307,11 @@ It is a good habit to record your feeling here although you may not have a big h
 
 ### Day 33: July 1, Monday
 
-****
+**Today's Progress**:
 
+**Thoughts**:
+**Link(s)**:
+1. [Regular Expressions -- match -- *  (no flags)   ](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/match-characters-that-occur-zero-or-more-times)
 
 
 
