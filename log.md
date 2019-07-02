@@ -314,4 +314,8 @@ It is a good habit to record your feeling here although you may not have a big h
 1. [Regular Expressions -- match -- *  (no flags)   ](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/match-characters-that-occur-zero-or-more-times)
 
 
+### Day 34: July 2, Tuesday
 
+**Today's Progress**: Reviewed most of challenges about Regular Expressions.
+**Thoughts**:
+1. []()
