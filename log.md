@@ -319,3 +319,14 @@ It is a good habit to record your feeling here although you may not have a big h
 **Today's Progress**: Reviewed most of challenges about Regular Expressions.
 **Thoughts**:
 1. []()
+
+
+### Day 35: Junly 3, Wednesday
+
+**Today's Progress**: Reviewed regular expression
+
+**Thoughts**: It is unefficient because of wasting too much on transportation.
+
+**Link(s)**
+1. [Regular Expressions blog](https://blog.csdn.net/fjxcsdn/article/details/85256368)
+
