@@ -321,7 +321,7 @@ It is a good habit to record your feeling here although you may not have a big h
 1. []()
 
 
-### Day 35: Junly 3, Wednesday
+### Day 35: July 3, Wednesday
 
 **Today's Progress**: Reviewed regular expression
 
@@ -330,3 +330,13 @@ It is a good habit to record your feeling here although you may not have a big h
 **Link(s)**
 1. [Regular Expressions blog](https://blog.csdn.net/fjxcsdn/article/details/85256368)
 
+
+
+### Day 36: July 4, Thursday
+
+**Today's Progress**: positive and negative lookahead, in Regular Expressions
+
+**Thoughts**: time is too short
+
+**Link(s)**
+1. [positive and negative lookahead](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/positive-and-negative-lookahead)
