@@ -346,7 +346,8 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Today's Progress**: Regular Expressions
 
-**Thoughts**: 
+**Thoughts**: The problem you first time met usually will not still be a problem many times after.
 
 **Link(s)**
 1. [ two consecutive digits ](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/positive-and-negative-lookahead/)
+2. [ capture groups] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/reuse-patterns-using-capture-groups)
