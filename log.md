@@ -340,3 +340,13 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Link(s)**
 1. [positive and negative lookahead](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/positive-and-negative-lookahead)
+
+
+### Day 37: July 5, Friday
+
+**Today's Progress**: Regular Expressions
+
+**Thoughts**: 
+
+**Link(s)**
+1. [ two consecutive digits ](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/positive-and-negative-lookahead/)
