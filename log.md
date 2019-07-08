@@ -351,3 +351,13 @@ It is a good habit to record your feeling here although you may not have a big h
 **Link(s)**
 1. [ two consecutive digits ](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/positive-and-negative-lookahead/)
 2. [ capture groups] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/reuse-patterns-using-capture-groups)
+
+
+### Day 38: July 6, Monday
+
+**Today's Progress**: Debugging
+
+**Thoughts**: Pause is not too bad, but stop is.
+
+**Link(s)**
+1. [local variable](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging/use-caution-when-reinitializing-variables-inside-a-loop)
