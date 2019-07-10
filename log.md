@@ -353,7 +353,7 @@ It is a good habit to record your feeling here although you may not have a big h
 2. [ capture groups] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/reuse-patterns-using-capture-groups)
 
 
-### Day 38: July 6, Monday
+### Day 38: July 8, Monday
 
 **Today's Progress**: Debugging
 
@@ -361,3 +361,10 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Link(s)**
 1. [local variable](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging/use-caution-when-reinitializing-variables-inside-a-loop)
+
+
+### Day 40: July 10, Wednesday
+
+**Today and Yesterday's Progress**: These two days I did some challenges about basic data structure.
+
+**Thoughts**: More time was holded up by the English reading process.
