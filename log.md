@@ -368,3 +368,11 @@ It is a good habit to record your feeling here although you may not have a big h
 **Today and Yesterday's Progress**: These two days I did some challenges about basic data structure.
 
 **Thoughts**: More time was holded up by the English reading process.
+
+
+### Day 41: July 11, Thursday
+
+**Today's Progress**: Reviewed the content I learned yesterday.
+
+**Thoughts**: Repetition is meaningless sometimes.
+
