@@ -377,11 +377,18 @@ It is a good habit to record your feeling here although you may not have a big h
 **Thoughts**: Repetition is meaningless sometimes.
 
 
-
-
 ### Day 42: July 12, Friday
 
 **Today's Progress**: basic data structure, array
 **Thoughts**: keep coding
 **Link(s)**
 1. [using 'indexOf' to iterate array](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-all-an-arrays-items-using-for-loops)
+
+
+### Day 43: July 13, Saturday
+
+**Today's Progress**: the left of basic data structure
+**Thoughts**:
+
+**Link(s)**
+1. [ Object.keys() ](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/generate-an-array-of-all-object-keys-with-object-keys)
