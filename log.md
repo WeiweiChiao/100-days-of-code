@@ -388,6 +388,7 @@ It is a good habit to record your feeling here although you may not have a big h
 ### Day 43: July 13, Saturday
 
 **Today's Progress**: the left of basic data structure
+
 **Thoughts**:
 
 **Link(s)**
