@@ -392,3 +392,4 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Link(s)**
 1. [ Object.keys() ](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/generate-an-array-of-all-object-keys-with-object-keys)
+2. [ Modify an Array Stored in an Object ](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-array-stored-in-an-object)
