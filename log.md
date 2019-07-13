@@ -389,7 +389,7 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Today's Progress**: the left of basic data structure
 
-**Thoughts**:
+**Thoughts**: The status of keep learning is the most important factor in everyone's life.
 
 **Link(s)**
 1. [ Object.keys() ](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/generate-an-array-of-all-object-keys-with-object-keys)
