@@ -404,3 +404,13 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Link(s)**
 1. [ reverse a string ](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/reverse-a-string)
+
+
+### Day 45: July 15, Monday
+
+**Today's Progress**: reviewed basic algorithm
+
+**Thoughts**: I can only finish something I had met.
+
+**Link(s)**
+1. [return largest number in arrays](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/return-largest-numbers-in-arrays/)
