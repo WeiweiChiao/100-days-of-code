@@ -414,3 +414,13 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Link(s)**
 1. [return largest number in arrays](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/return-largest-numbers-in-arrays/)
+
+
+### Day 46: July 16, Tuesday
+
+**Today's Progress**: basic algorithm, like ending with and reapting a string 
+
+**Thoughts**:Reviewing is necessary.
+
+**Link(s)**
+
