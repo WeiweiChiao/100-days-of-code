@@ -424,3 +424,12 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Link(s)**
 
+
+### Day 47: July 17, Wednesday
+
+**Today's Progress**: truancate a string
+
+**Thoughts**: Using the solution 
+
+**Link(s)**
+1. [solution of truncating a string](https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting/truncate-a-string/)
