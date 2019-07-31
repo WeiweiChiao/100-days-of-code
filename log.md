@@ -433,3 +433,14 @@ It is a good habit to record your feeling here although you may not have a big h
 
 **Link(s)**
 1. [solution of truncating a string](https://guide.freecodecamp.org/certifications/javascript-algorithms-and-data-structures/basic-algorithm-scripting/truncate-a-string/)
+
+
+### Day 50: July 31, Wednesday
+
+**Today's Progress**: Finders Keepers
+
+**Thoughts**: Two weeks later, I am still learning the basic algorithm. It is difficult to keep doing something. But if you held on, now you are different. Hold on, in the next days.
+
+
+**Link(s)**
+1. [Finders Keepers](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/finders-keepers)
